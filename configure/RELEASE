@@ -16,8 +16,6 @@ SUPPORT=/usr/local/epics/R3.14.11/modules/soft/synApps_5_5/support
 
 SNCSEQ     = $(SUPPORT)/seq-2-0-12
 #SNCSEQ = /afs/slac/g/spear/epics/modules/seq/seq
-#SNCSEQ = /afs/slac/g/lcls/epics/R3-15-1_1-0/modules/seq/seq-R2-1-17_1-0
-#SNCSEQ = /afs/slac/g/lcls/epics/R3-16-0/modules/seq/seq-2.2.3
 
 #EPICS_BASE = /usr/local/epics/R3.14.11/base
 EPICS_BASE=/afs/slac/g/spear/epics/base
